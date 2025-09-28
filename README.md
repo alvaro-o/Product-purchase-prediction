@@ -9,7 +9,7 @@ Machine learning model that predicts whether a user will purchase a product base
 
 ## Results
 - Gradient Boosting outperformed Logistic Regression and Random Forest
-- Evaluated using ROC-AUC and PR-AUC
+- Evaluated using ROC-AUC, achieved a score of 0.84
 - Model modularized into training (`fit.py`), prediction (`predict.py`), and reusable class (`push_model.py`)
 
 ## Project Structure
